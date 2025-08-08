@@ -60,13 +60,21 @@
   </p>
 </div>
 
+
 ## Preview
 
 <div align="center">
   <a href="#">
-      <img src=".github/assets/preview.png" width="200" alt="preview" />
+      <img src=".github/assets/preview2.jpg" width="220" alt="preview atualizado" />
   </a>
 </div>
+
+## 🆕 Melhorias Recentes
+
+- Textos do app traduzidos para português, incluindo botões e mensagens.
+- Mensagem de status agora: "Segura • Forte • Aprovada por Gotham".
+- Compatibilidade garantida com Expo SDK 53 e Expo Go mais recente.
+- Dependências atualizadas e conflitos resolvidos.
 
 ## 🔥 Features
 - [x] Generate a random Strong Password;
