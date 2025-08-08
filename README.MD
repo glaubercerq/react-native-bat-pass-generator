@@ -69,12 +69,6 @@
   </a>
 </div>
 
-## 🆕 Melhorias Recentes
-
-- Textos do app traduzidos para português, incluindo botões e mensagens.
-- Mensagem de status agora: "Segura • Forte • Aprovada por Gotham".
-- Compatibilidade garantida com Expo SDK 53 e Expo Go mais recente.
-- Dependências atualizadas e conflitos resolvidos.
 
 ## 🔥 Features
 - [x] Generate a random Strong Password;
